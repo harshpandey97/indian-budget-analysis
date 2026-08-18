@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🇮🇳 Indian Union Budget Data Analysis
+# Indian Union Budget Data Analysis
 
 ### Decoding how India taxes, spends, and borrows — one budget at a time
 
